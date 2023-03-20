@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D228_Act1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="mainActTextView">Hello World!</string>
+    <string name="secActTextView">This is the textview on the second activity</string>
+</resources>
