@@ -4,4 +4,13 @@
     <string name="title_activity_2">Activity2</string>
     <string name="mainActTextView">Hello World!</string>
     <string name="secActTextView">This is the textview on the second activity</string>
+    <array name="spinner_list">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+    </array>
 </resources>
